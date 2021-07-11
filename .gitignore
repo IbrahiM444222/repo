@@ -1,0 +1,4 @@
+*.log
+!vga.log
+js/
+txt.txt
